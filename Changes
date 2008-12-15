@@ -1,0 +1,6 @@
+Revision history for Perl extension Crypt::Vernam.
+
+0.01  Sat Dec 13 11:28:55 2008
+	- original version; created by h2xs 1.23 with options
+		-XAn Crypt::Vernam
+
