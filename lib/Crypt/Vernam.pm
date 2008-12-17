@@ -55,8 +55,7 @@ sub _get_key_mod26 {
     return $key;
 }
 
-## Shift $alpha and $key_alpha to get alpha at
-## new position.
+## Shift positions and get character at new position.
 sub _shift_char {
     my ($char, $key_char, $action) = @_;
 
