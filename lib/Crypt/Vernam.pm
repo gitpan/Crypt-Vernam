@@ -21,7 +21,7 @@ our @EXPORT = qw(
     vernam_decrypt
 );
 
-our $VERSION = '0.01';
+our $VERSION = '0.03';
 
 #-------------------- Globals -------------------#
 
